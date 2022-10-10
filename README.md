@@ -20,3 +20,20 @@ Create a new environment
 conda activate venu/
 
 ```
+
+ ###  Basic Steps for this project 
+        Understanding the dataset 
+        Preparing Dataset And Bsic EDA
+        Preparing Dataset For Model Training
+        Training The Model
+        Performance Metrics
+        Prediction Of New Data
+        Pickling the model file
+        Creating A New Environment
+        Setting up Git
+        Creating A FLASK Web App
+        Running An Testing our app
+        Prediction From Front End App
+        Procfile for Heroku Deployment
+        Deploying The App To Heroku
+        Deploying The App Using Dockers and github actions
