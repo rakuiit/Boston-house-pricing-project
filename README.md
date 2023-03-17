@@ -1,5 +1,5 @@
 # Boston-house-pricing-project
-# Project
+# Projects
 
 ## software and tools requirments
 
